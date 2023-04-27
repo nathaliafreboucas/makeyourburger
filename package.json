@@ -1,0 +1,23 @@
+{
+  "name": "makeyourburgerapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathaliafreboucas/makeyourburgerapi.git"
+  },
+  "keywords": [],
+  "author": "Nathália Rebouças",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathaliafreboucas/makeyourburgerapi/issues"
+  },
+  "homepage": "https://github.com/nathaliafreboucas/makeyourburgerapi#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
